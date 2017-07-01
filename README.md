@@ -1,2 +1,1 @@
-# CSS_Project05
-GoForFrontEnd_HomeTask05
+Frontend for zazor.com.ua
